@@ -5,5 +5,3 @@ I’m a Computer Games Design graduate from the University of Gloucestershire an
 I make games in my spare time, visit my [Website](http://www.henrykoleoso.com/) to take a look.
 
 Hello
-
-Hello Pages
